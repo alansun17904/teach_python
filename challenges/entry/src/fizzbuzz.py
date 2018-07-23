@@ -1,4 +1,4 @@
-class FizzBuzz(object):
+class FizzBuzz:
 
     @staticmethod
     def fizzbuzz(i):
