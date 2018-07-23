@@ -1,6 +1,8 @@
 langauge: python
 python: 
     - "3.6"
+script:
+    - pytest challenges/market/test
 branches:
   only:
     - master
