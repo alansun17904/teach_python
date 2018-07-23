@@ -1,0 +1,51 @@
+1. Introduction to Everything
+    Important Concepts: An Overview of the club and what we wanna do.
+
+    What is computer science:
+        Programming Langauges
+        Computer Architechure
+        Algorithms
+        The Web
+    Programming
+        Debugging
+        Test-driven development
+    Launching Python: The Command Line
+    Resources
+        StackOverFlow
+        python.org
+        Syntax is trivial, its the bigger picture concepts that matter.
+    Showcase some projects?
+
+2. Variables and Types
+    Important Concepts: 
+
+    The purpose of variables
+    Variabel naming convention: PEP 8
+    Types and their purposes, casting
+
+3. Types and Operators
+    Important Concept: The meaning of operators are derived from the type that is being operated on.
+    
+    Number Operators: + , - , *, /, %
+    String Operators: +, *
+
+4. Lists
+    Introduce some of the projects that we will be doing this year.
+    Why do we use lists
+    The flexiablity of lists
+    Arrays vs. Lists 
+    Some basic operators: +, *
+    Some basic list methods: append, remove, pop, insert
+
+5. Functions
+    Important Concept: DRY (Don't repeat yourself), Abstraction
+    Working in groups, writing tests and functions. Individual? or Group?
+    
+6. If-Statements
+    Important Concepts: Logical and Comparison Operators, Drawing THE FLOW CHART
+
+
+
+
+
+
