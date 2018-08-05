@@ -1,5 +1,6 @@
 from challenges.entry.src.employee import Person, Manager
 
+
 def test_person():
     james = Person('James Smith',job='Engineer',pay=10)
     michael = Person('Michael Davis',job='Cashier',pay=15)
@@ -16,6 +17,7 @@ def test_person():
 
     assert james.give_raise(0.1) == 11.
     assert james.give_raise(0.5) == 16.5
+
 
 def test_manager():
     james = Person('James Smith', job='Engineer', pay=10)
