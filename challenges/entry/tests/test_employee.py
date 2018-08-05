@@ -26,5 +26,8 @@ def test_manager():
     assert michael.job == 'Manager'
     assert michael.pay == 100
 
-    assert michael.give_raise(0.3,bonus=0.2) == 150
-    assert michael.give_raise(0.5,bonus=0.0) == 225
+    assert michael.give_raise(0.3, bonus=0.2) == 150
+    assert michael.give_raise(0.5, bonus=0.0) == 225
+
+    assert james.job == 'Engineer'
+    assert james.last_name() == 'Smith'
