@@ -14,7 +14,7 @@ def test_password_generator():
     assert Password.generate_password()[7].isdigit()
     assert Password.generate_password()[8].isdigit()
 
-    assert Password.generate_password() in '!@#?/*'
+    assert Password.generate_password()[9] in '!@#?/*'
 
     #Unique tester
     assert Password.generate_password()[:5] != Password.generate_password()[:5]
