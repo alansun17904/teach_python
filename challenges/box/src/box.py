@@ -13,7 +13,7 @@ class Box:
         return
 
     @staticmethod
-    def crazy_box():
+    def crazy_box(n):
         # hint: study the tests very carefully, and use your terminal to experiment
         # TODO: implement this method!
         return
