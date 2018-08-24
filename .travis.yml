@@ -1,10 +1,8 @@
-langauge: python
-python: 
-    - "3.6"
-intall:
-    - pip install -r requirements.txt
+language: python
+python:
+  - "3.6"
 script:
-    - pytest challenges/entry/tests
+  - pytest challenges/box/tests
 branches:
   only:
     - master
