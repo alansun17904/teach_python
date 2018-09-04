@@ -1,4 +1,4 @@
-from lessons.types.src.distance_conversion import DistanceConversion as Distance
+from .context import DistanceConversion as Distance
 
 
 def test_distance_converison_km_to_miles():

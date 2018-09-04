@@ -1,4 +1,4 @@
-from lessons.types.src.minutes_to_seconds import MinutesAndSecondsToSeconds as Minute
+from .context import MinutesAndSecondsToSeconds as Minute
 
 
 def test_minutes_to_seconds():
